@@ -1,0 +1,5 @@
+imprimir ('desafio 005 - curso em video python')
+n = int (input ('Digite um numero:'))
+imprimir ('Analisando o numero {}' .formato (n))
+imprimir ('antecessor: {}'. formato (n-1))
+print ('Sucessor: {}'. formato (n + 1
